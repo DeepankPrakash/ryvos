@@ -35,7 +35,7 @@ ryvos               # Start talking to your assistant
 
 ## Why Ryvos?
 
-Autonomous AI assistants are exploding — but the current generation is built on TypeScript and Python runtimes that were never designed for always-on, autonomous operation:
+Autonomous AI assistants are exploding but the current generation is built on TypeScript and Python runtimes that were never designed for always-on, autonomous operation:
 
 - **No security model** — community skills run arbitrary code with full system access.
 - **No goal awareness** — agents run until max_turns, not until the task is done.
