@@ -268,7 +268,7 @@ Ryvos is a Cargo workspace with 10 crates. Together they form a complete autonom
 
 ## Security Model
 
-Security is enforced at the **SecurityGate middleware** — every tool call passes through it before execution.
+Security is enforced at the **SecurityGate middleware** — every tool call passes through it before the execution.
 
 ### Tool Tier System
 
